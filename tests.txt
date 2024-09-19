@@ -1,0 +1,88 @@
+
+	"checkCode 1.A ",
+	"true",			
+	//WRITE YOUR TESTS BELOW IN THE SAME FORMAT (USE COPY-AND-PASTE)
+	"checkCode 16.Ayushi Kriplani 12345", 
+	"true", 
+
+	"checkCode - 16- Ayushi Kriplani 12345", 
+	"false", 
+
+	"checkCode - 16- Ayushi-Kriplani 12345", 
+	"false", 
+
+	"checkCode 16 176Ayushi Kriplani 12345", 
+	"false", 
+
+	"checkCode -16.Ayushi Kriplani 12345", 
+	"false", 
+
+	"checkCode 9898899.Ayushi Kriplani 12345", 
+	"false",
+
+	"checkCode .Ayushi Kriplani"
+
+	"checkCode 0.Ayushi Kriplani 12345", 
+	"false", 
+
+	"checkCode 999.Ayushi Kriplani 12345" 
+	"true" 
+
+	"checkCode 1.Ayushi Kriplani 12345" 
+	"true" 
+
+	"checkCode A.Ayushi Kriplani 12345",
+	"false", 
+
+	"checkCode 16Ayushi Kriplani 12345", 
+	"false", 
+
+	"checkCode 16-Ayushi Kriplani 12345", 
+	"false",
+	
+	"checkCode 16 Ayushi Kriplani 12345", 
+	"false",
+
+	"checkCode 16.ayushiKriplani 12345", 
+	"false",	
+
+	"checkCode Ayushi 12345", 
+	"false",
+
+	"checkCode 16.ayush3riplani 12345", 
+	"false",
+
+	"checkCode 16.Ay2shi Kriplani 12345", 
+	"false",
+
+	"checkCode 16.Ayushi Kriplani 12345 67563" 
+	"true" 
+	
+	"checkCode 16.Ayushi kriplani 12345", 
+	"false",
+
+	"checkCode 16.Ayushi kri87474ni 12345", 
+	"false",
+
+	"checkCode 16.Ayushi Kriplani12345", 
+	"false",
+
+	"checkCode 16.Ayushi Kriplani123", 
+	"false",
+
+	"checkCode 16.Ayushi Kriplani 123", 
+	"false",
+
+	"checkCode 16.Ayushi Kriplani.12345", 
+	"false",
+
+	"checkCode 16.Ayushi Kriplani ", 
+	"true",
+
+	"checkCode 16.Ayushi ", 
+	"true",
+
+	"checkCode 16.Ayushi Kriplani", 
+	"false",
+
+	//DO NOT CHANGE ANYTHING BELOW THIS LINE		
