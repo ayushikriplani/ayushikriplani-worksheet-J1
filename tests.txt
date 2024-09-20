@@ -52,9 +52,6 @@
 	"checkCode 16.ayush3riplani 12345", 
 	"false",
 
-	"checkCode 16.Ay2shi Kriplani 12345", 
-	"false",
-
 	"checkCode 16.Ayushi Kriplani 12345 67563" 
 	"true" 
 	
@@ -86,3 +83,7 @@
 	"false",
 
 	//DO NOT CHANGE ANYTHING BELOW THIS LINE		
+
+
+	"checkCode 16.Ay2shi Kriplani 12345", 
+	"false",
